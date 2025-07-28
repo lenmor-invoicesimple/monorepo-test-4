@@ -5,7 +5,7 @@
     "url": "https://github.com/lenmor-invoicesimple/monorepo-test-4",
     "directory": "packages/is-add"
   },
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "is add package",
   "author": "Lenmor Dimanalata <lenmor@invoicesimple.com>",
   "homepage": "",
