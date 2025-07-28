@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/lenmor-invoicesimple/monorepo-test-4/compare/@lenmor-invoicesimple/is-odd@1.1.16...@lenmor-invoicesimple/is-odd@2.0.0) (2025-07-28)
+
+- Squashed conventional commits 2 (#8) ([64928f0](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/64928f07ccc138b8c7323a2c8d6fbefd24ebe4de)), closes [#8](https://github.com/lenmor-invoicesimple/monorepo-test-4/issues/8)
+
+### BREAKING CHANGES
+
+- for subtract
+
+- fix: add
+
 ## [1.1.16](https://github.com/lenmor-invoicesimple/monorepo-test-4/compare/@lenmor-invoicesimple/is-odd@1.1.15...@lenmor-invoicesimple/is-odd@1.1.16) (2025-07-28)
 
 **Note:** Version bump only for package @lenmor-invoicesimple/is-odd
