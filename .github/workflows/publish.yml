@@ -37,13 +37,18 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Bump versions via Lerna
-        run: npx lerna version --conventional-commits --yes --no-push
+      # - name: Bump versions via Lerna
+      #   run: npx lerna version --conventional-commits --yes --no-push
 
-      - name: Push tags and release commit
-        run: git push origin HEAD --follow-tags
+      # - name: Push tags and release commit
+      #   run: git push origin HEAD --follow-tags
 
+      # - name: Publish changed packages
+      #   env:
+      #     NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      #   run: npx lerna publish from-package --yes
+      
       - name: Publish changed packages
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: npx lerna publish from-package --yes
+        run: npx lerna publish --conventional-commits --yes
