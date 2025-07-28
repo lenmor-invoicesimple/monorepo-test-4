@@ -1,4 +1,4 @@
 export function add(num: number, num2: number): number {
-  console.log("test 1");
+  console.log("fix version");
   return num + num2;
 }
