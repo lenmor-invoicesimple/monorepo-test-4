@@ -5,7 +5,7 @@
     "url": "https://github.com/lenmor-invoicesimple/monorepo-test-4",
     "directory": "packages/is-even"
   },
-  "version": "1.1.14",
+  "version": "1.1.15",
   "description": "is even package",
   "author": "Lenmor Dimanalata <lenmor@invoicesimple.com>",
   "homepage": "",

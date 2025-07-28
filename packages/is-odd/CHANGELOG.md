@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.15](https://github.com/lenmor-invoicesimple/monorepo-test-4/compare/@lenmor-invoicesimple/is-odd@1.1.14...@lenmor-invoicesimple/is-odd@1.1.15) (2025-07-28)
+
+**Note:** Version bump only for package @lenmor-invoicesimple/is-odd
+
 ## [1.1.14](https://github.com/lenmor-invoicesimple/monorepo-test-4/compare/@lenmor-invoicesimple/is-odd@0.1.1...@lenmor-invoicesimple/is-odd@1.1.14) (2025-07-28)
 
 **Note:** Version bump only for package @lenmor-invoicesimple/is-odd
