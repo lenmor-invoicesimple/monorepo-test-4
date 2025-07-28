@@ -1,0 +1,33 @@
+{
+  "name": "@lenmor-invoicesimple/is-subtract",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lenmor-invoicesimple/monorepo-test-4",
+    "directory": "packages/is-subtract"
+  },
+  "version": "0.0.0",
+  "description": "is add package",
+  "author": "Lenmor Dimanalata <lenmor@invoicesimple.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "dist/is-subtract.js",
+  "types": "dist/is-subtract.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "typescript": "^5.8.3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
