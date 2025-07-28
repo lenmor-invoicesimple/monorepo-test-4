@@ -1,5 +1,4 @@
 export function isOdd(num: number): boolean {
-  console.log("isOdd called with 22222:", num);
-  console.log("test")
+  console.log("feat version 1")
   return num % 2 !== 0;
 }
