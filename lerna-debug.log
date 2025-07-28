@@ -1,0 +1,25 @@
+0 silly argv {
+0 silly argv   _: [ 'ls' ],
+0 silly argv   since: 'master',
+0 silly argv   lernaVersion: '5.6.2',
+0 silly argv   '$0': '/Users/lenmor/monorepo-test-2/node_modules/.bin/lerna'
+0 silly argv }
+1 notice cli v5.6.2
+2 verbose rootPath /Users/lenmor/monorepo-test-2
+3 info versioning independent
+4 notice filter changed since "master"
+5 silly hasTags
+6 verbose hasTags false
+7 info Looking for changed packages since master
+8 silly checking diff packages/demo-add
+9 error Error: Command failed with exit code 128: git diff --name-only master -- packages/demo-add
+9 error fatal: bad revision 'master'
+9 error     at makeError (/Users/lenmor/monorepo-test-2/node_modules/execa/lib/error.js:60:11)
+9 error     at module.exports.sync (/Users/lenmor/monorepo-test-2/node_modules/execa/index.js:194:17)
+9 error     at Object.execSync (/Users/lenmor/monorepo-test-2/node_modules/@lerna/child-process/index.js:39:16)
+9 error     at diffSinceIn (/Users/lenmor/monorepo-test-2/node_modules/@lerna/collect-updates/lib/make-diff-predicate.js:75:23)
+9 error     at hasDiffSinceThatIsntIgnored (/Users/lenmor/monorepo-test-2/node_modules/@lerna/collect-updates/lib/make-diff-predicate.js:34:18)
+9 error     at isCandidate (/Users/lenmor/monorepo-test-2/node_modules/@lerna/collect-updates/collect-updates.js:113:77)
+9 error     at /Users/lenmor/monorepo-test-2/node_modules/@lerna/collect-updates/lib/collect-packages.js:24:9
+9 error     at PackageGraph.forEach (<anonymous>)
+9 error     at collectPackages (/Users/lenmor/monorepo-test-2/node_modules/@lerna/collect-updates/lib/collect-packages.js:23:12)

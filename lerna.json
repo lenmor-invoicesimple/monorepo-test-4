@@ -1,0 +1,13 @@
+{
+  "npmClient": "pnpm",
+  "useWorkspaces": true,
+  "packages": ["packages/*"],
+  "version": "independent",
+  "command": {
+    "publish": {
+      "ignoreChanges": ["*.md"],
+      "message": "chore: publish",
+      "registry": "https://npm.pkg.github.com/"
+    }
+  }
+}
