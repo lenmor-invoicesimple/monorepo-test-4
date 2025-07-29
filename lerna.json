@@ -1,12 +1,18 @@
 {
   "npmClient": "pnpm",
-  "packages": ["packages/*"],
+  "packages": [
+    "packages/*"
+  ],
   "version": "independent",
   "command": {
     "publish": {
-      "ignoreChanges": ["*.md", "lerna-debug.log"],
+      "ignoreChanges": [
+        "*.md",
+        "lerna-debug.log"
+      ],
       "message": "chore: publish",
       "registry": "https://npm.pkg.github.com/"
     }
-  }
+  },
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json"
 }
