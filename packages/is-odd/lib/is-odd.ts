@@ -1,4 +1,4 @@
 export function isOdd(num: number): boolean {
-  console.log("major version 2")
+  console.log("minor version 4.1.0")
   return num % 2 !== 0;
 }
