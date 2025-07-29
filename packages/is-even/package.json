@@ -5,7 +5,7 @@
     "url": "https://github.com/lenmor-invoicesimple/monorepo-test-4",
     "directory": "packages/is-even"
   },
-  "version": "1.1.24",
+  "version": "1.1.25",
   "description": "is even package",
   "author": "Lenmor Dimanalata <lenmor@invoicesimple.com>",
   "homepage": "",
@@ -24,7 +24,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@lenmor-invoicesimple/is-odd": "workspace:*"
+    "@lenmor-invoicesimple/is-odd": "4.3.0"
   },
   "devDependencies": {
     "jest": "^30.0.5",
@@ -32,5 +32,6 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  }
+  },
+  "gitHead": "46fd78de37605e9d7dbe790bc7718af8e2c57ee1"
 }
