@@ -4,7 +4,7 @@
   "version": "independent",
   "command": {
     "publish": {
-      "ignoreChanges": ["*.md"],
+      "ignoreChanges": ["*.md", "lerna-debug.log"],
       "message": "chore: publish",
       "registry": "https://npm.pkg.github.com/"
     }
