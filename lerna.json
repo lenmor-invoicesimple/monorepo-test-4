@@ -4,6 +4,8 @@
     "packages/*"
   ],
   "version": "independent",
+  "conventionalCommits": true,
+  "changelogPreset": "conventional-changelog-conventionalcommits",
   "command": {
     "publish": {
       "ignoreChanges": [
