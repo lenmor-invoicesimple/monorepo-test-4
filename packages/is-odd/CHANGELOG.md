@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>5.0.1 (2025-07-31)</small>
+
+- feat!: major change ([250d21d](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/250d21d))
+
+### BREAKING CHANGE
+
+- on feat
+
 # [5.0.0](https://github.com/lenmor-invoicesimple/monorepo-test-4/compare/@lenmor-invoicesimple/is-odd@4.3.4...@lenmor-invoicesimple/is-odd@5.0.0) (2025-07-31)
 
 - feat!: major change ([8116d97](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/8116d9745c88883d013e4a18a121224bb97b9fc7))
