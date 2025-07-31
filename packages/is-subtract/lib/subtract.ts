@@ -1,4 +1,4 @@
 export function subtract(num: number, num2: number): number {
-  console.log("MAJOR2");
+  console.log("MAJOR22");
   return num - num2;
 }
