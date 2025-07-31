@@ -1,10 +1,19 @@
-56 warn complete Waiting for 1 child process to exit. CTRL-C to exit immediately.
-57 error Error: Command failed with exit code 128: git tag @lenmor-invoicesimple/is-even@1.1.22 -m @lenmor-invoicesimple/is-even@1.1.22
-57 error fatal: tag '@lenmor-invoicesimple/is-even@1.1.22' already exists
-57 error     at makeError (/Users/lenmor/monorepo-test-4/node_modules/.pnpm/execa@5.0.0/node_modules/execa/lib/error.js:59:11)
-57 error     at handlePromise (/Users/lenmor/monorepo-test-4/node_modules/.pnpm/execa@5.0.0/node_modules/execa/index.js:114:26)
-57 error     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
-57 error     at async Promise.all (index 0)
-57 error     at async VersionCommand.gitCommitAndTagVersionForUpdates (/Users/lenmor/monorepo-test-4/node_modules/.pnpm/lerna@8.2.3_encoding@0.1.13/node_modules/lerna/dist/index.js:10138:11)
-57 error     at async VersionCommand.commitAndTagUpdates (/Users/lenmor/monorepo-test-4/node_modules/.pnpm/lerna@8.2.3_encoding@0.1.13/node_modules/lerna/dist/index.js:10114:18)
-57 error     at async Promise.all (index 0)
+47 error Error: Command failed with exit code 1: pnpm install --lockfile-only --ignore-scripts
+47 error Scope: all 5 workspace projects
+47 error  WARN  `node_modules` is present. Lockfile only installation will make it out-of-date
+47 error Progress: resolved 1, reused 0, downloaded 0, added 0
+47 error  WARN  deprecated eslint@8.57.1: This version is no longer supported. Please see https://eslint.org/version-support for other options.
+47 error /Users/lenmor/monorepo-test-4/packages/is-even:
+47 error  ERR_PNPM_NO_MATCHING_VERSION  No matching version found for @lenmor-invoicesimple/is-odd@^4.3.1
+47 error
+47 error This error happened while installing a direct dependency of /Users/lenmor/monorepo-test-4/packages/is-even
+47 error
+47 error The latest release of @lenmor-invoicesimple/is-odd is "4.3.0".
+47 error
+47 error If you need the full list of all 17 published versions run "$ pnpm view @lenmor-invoicesimple/is-odd versions".
+47 error Progress: resolved 25, reused 0, downloaded 0, added 0
+47 error     at makeError (/Users/lenmor/monorepo-test-4/node_modules/.pnpm/execa@5.0.0/node_modules/execa/lib/error.js:59:11)
+47 error     at handlePromise (/Users/lenmor/monorepo-test-4/node_modules/.pnpm/execa@5.0.0/node_modules/execa/index.js:114:26)
+47 error     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+47 error     at async VersionCommand.updatePackageVersions (/Users/lenmor/monorepo-test-4/node_modules/.pnpm/lerna@8.2.3_encoding@0.1.13/node_modules/lerna/dist/index.js:10047:11)
+47 error     at async Promise.all (index 0)
