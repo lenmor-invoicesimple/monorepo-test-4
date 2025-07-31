@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>4.3.2 (2025-07-31)</small>
+
+- commit package changes ([ccdc1dd](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/ccdc1dd))
+- release release-2025-07-29-c ([e800e9d](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/e800e9d))
+- fix: odd ([91e0bec](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/91e0bec))
+- fix: odd ([d4d3888](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/d4d3888))
+- fix: odd ([e8b3943](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/e8b3943))
+- fix: odd 5 ([46fd78d](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/46fd78d))
+- feat: odd ([596cebd](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/596cebd))
+
 ## [4.2.1](https://github.com/lenmor-invoicesimple/monorepo-test-4/compare/@lenmor-invoicesimple/is-odd@4.1.1...@lenmor-invoicesimple/is-odd@4.2.1) (2025-07-29)
 
 ### Bug Fixes

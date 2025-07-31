@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.1.27 (2025-07-31)</small>
+
+- build ([2fe2361](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/2fe2361))
+- build ([11fa0b8](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/11fa0b8))
+- commit package changes ([ccdc1dd](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/ccdc1dd))
+- release release-2025-07-29-c ([e800e9d](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/e800e9d))
+
 ## [1.1.23](https://github.com/lenmor-invoicesimple/monorepo-test-4/compare/@lenmor-invoicesimple/is-even@1.1.21...@lenmor-invoicesimple/is-even@1.1.23) (2025-07-29)
 
 **Note:** Version bump only for package @lenmor-invoicesimple/is-even
