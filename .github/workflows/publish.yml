@@ -48,7 +48,7 @@ jobs:
       #     NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
       #   run: npx lerna publish from-package --yes
       
-      - name: Publish changed packages
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: npx lerna publish --conventional-commits --yes
+      # - name: Publish changed packages
+      #   env:
+      #     NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      #   run: npx lerna publish --conventional-commits --yes
