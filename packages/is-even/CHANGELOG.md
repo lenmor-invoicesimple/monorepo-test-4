@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.1.32 (2025-07-31)</small>
+
+**Note:** Version bump only for package @lenmor-invoicesimple/is-even
+
 ## <small>1.1.31 (2025-07-31)</small>
 
 **Note:** Version bump only for package @lenmor-invoicesimple/is-even

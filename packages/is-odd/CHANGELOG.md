@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>5.0.2 (2025-07-31)</small>
+
+- feat(odd): something ([bc5ce3d](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/bc5ce3d))
+
 ## <small>5.0.1 (2025-07-31)</small>
 
 - feat!: major change ([250d21d](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/250d21d))
