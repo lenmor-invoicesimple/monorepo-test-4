@@ -3,6 +3,11 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>4.1.2 (2025-07-31)</small>
+
+- feat: sub ([cad9fca](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/cad9fca))
+- feat: sub ([4b3be03](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/4b3be03))
+
 ## <small>4.1.1 (2025-07-31)</small>
 
 - fix: sub ([d193182](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/d193182))
