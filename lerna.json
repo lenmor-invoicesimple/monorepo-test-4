@@ -1,8 +1,5 @@
 {
   "npmClient": "pnpm",
-  "packages": [
-    "packages/*"
-  ],
   "version": "independent",
   "conventionalCommits": true,
   "changelogPreset": "conventional-changelog-conventionalcommits",
