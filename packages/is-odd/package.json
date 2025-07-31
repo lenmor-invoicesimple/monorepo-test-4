@@ -5,7 +5,7 @@
     "url": "https://github.com/lenmor-invoicesimple/monorepo-test-4",
     "directory": "packages/is-odd"
   },
-  "version": "4.3.0",
+  "version": "4.3.1",
   "description": "is odd package",
   "author": "Lenmor Dimanalata <lenmor@invoicesimple.com>",
   "homepage": "",
@@ -30,5 +30,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "gitHead": "46fd78de37605e9d7dbe790bc7718af8e2c57ee1"
+  "gitHead": "11fa0b8b2641f146bba2331e96cedd213a5b465c"
 }
