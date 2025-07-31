@@ -2,7 +2,6 @@
   "npmClient": "pnpm",
   "version": "independent",
   "conventionalCommits": true,
-  "changelogPreset": "conventional-changelog-conventionalcommits",
   "command": {
     "publish": {
       "ignoreChanges": [
