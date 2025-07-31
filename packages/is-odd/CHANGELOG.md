@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>4.3.3 (2025-07-31)</small>
+
+- FEAT!: MAJOR CHANGE ([e15a338](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/e15a338))
+
 ## <small>4.3.2 (2025-07-31)</small>
 
 - commit package changes ([ccdc1dd](https://github.com/lenmor-invoicesimple/monorepo-test-4/commit/ccdc1dd))
